@@ -1,0 +1,23 @@
+﻿@model IEnumerable<TakisShop.ViewModels.ProductViewModel>
+
+@foreach (var item in Model)
+{
+    <div class="col-md-6 col-lg-6 col-xl-4">
+        <div class="rounded position-relative fruite-item">
+            <a asp-action="Detail" asp-controller="HangHoa" asp-route-mahh="@item.MaHH">
+                <div class="fruite-img">
+                    <img src="~/Hinh/HangHoa/@item.Hinh" class="img-fluid rounded-top object-fit" alt="">
+                </div>
+            </a>
+            <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">@item.TenLoai</div>
+            <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                <h4 class="truncate-title">@item.TenHH</h4>
+                <p class="truncate-description">@item.MoTa</p>
+                <div class="d-flex justify-content-between flex-lg-wrap">
+                    <p class="text-dark fs-5 fw-bold mb-0">$@item.DonGia</p>
+                    <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                </div>
+            </div>
+        </div>
+    </div>
+}

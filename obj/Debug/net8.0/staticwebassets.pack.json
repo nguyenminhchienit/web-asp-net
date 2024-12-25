@@ -1,0 +1,2053 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TakisShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TakisShop.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\404.html",
+      "PackagePath": "staticwebassets\\404.html"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\1009.gif",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\1009.gif"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\21meTyhQebL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\21meTyhQebL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\31EPGSm2s1L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\31EPGSm2s1L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\31LAnW1JFqL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\31LAnW1JFqL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\31TB6tC6BOL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\31TB6tC6BOL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\31YOss-gC-L._AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\31YOss-gC-L._AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\31hCgES5GXL._AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\31hCgES5GXL._AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\31ioCUUFnoL.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\31ioCUUFnoL.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\31jsjfVfH9L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\31jsjfVfH9L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\31ncPnMYCxL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\31ncPnMYCxL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\31pAGovVENL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\31pAGovVENL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\31pT+SdvQXL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\31pT+SdvQXL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\31yxRemzRLL._SS350_ (1).jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\31yxRemzRLL._SS350_ (1).jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41-yvkFqVZL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41-yvkFqVZL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\410PjzqoC8L._AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\410PjzqoC8L._AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\415cOCbey.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\415cOCbey.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\415cOCbeyML.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\415cOCbeyML.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\416OcTXFfeL._AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\416OcTXFfeL._AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\416pdroSEkL.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\416pdroSEkL.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\419WCoqfamL._AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\419WCoqfamL._AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41A9R5KXCXL._AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41A9R5KXCXL._AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41BiMx1FKyL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41BiMx1FKyL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41CIcYRxJKL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41CIcYRxJKL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41G38jC0ajL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41G38jC0ajL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41GVLtgNngL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41GVLtgNngL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41IPLmZIKhL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41IPLmZIKhL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41KALboJKuL.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41KALboJKuL.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41LMouG6j7L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41LMouG6j7L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41MJUdI2jdL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41MJUdI2jdL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41Pg1ahql8L._AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41Pg1ahql8L._AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41RxtSQOd2L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41RxtSQOd2L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41TexqWVkHL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41TexqWVkHL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41V4Ds2PtZL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41V4Ds2PtZL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41WvZnGYUkL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41WvZnGYUkL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41XX7Pi240L.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41XX7Pi240L.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41Ymq8fjbOL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41Ymq8fjbOL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41Z43OmFHjL._SX342_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41Z43OmFHjL._SX342_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41ZE9SmWdzL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41ZE9SmWdzL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41brDHtPY9L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41brDHtPY9L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41iDo0HDhbL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41iDo0HDhbL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41iji4-9UsL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41iji4-9UsL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41lffECD-sL._SY445_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41lffECD-sL._SY445_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41qfgTvFBwL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41qfgTvFBwL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41qlcUEhNmL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41qlcUEhNmL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41riQRGf-6L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41riQRGf-6L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41sd2DTD8EL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41sd2DTD8EL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41sdBTtnUDL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41sdBTtnUDL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41sl3FN6NpL.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41sl3FN6NpL.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41sw9ASUvBL._SX342_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41sw9ASUvBL._SX342_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41w4TlVPhGL.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41w4TlVPhGL.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41wHu2N4tVL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41wHu2N4tVL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41yh1vBmqsL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41yh1vBmqsL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\41zxxR71G+L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41zxxR71G+L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\51+4d3VBFvL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51+4d3VBFvL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\513UnnRfFML._SL1001_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\513UnnRfFML._SL1001_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\515p1IeP0-L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\515p1IeP0-L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\5195-l+nflL._AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\5195-l+nflL._AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\51GBNkHO6vL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51GBNkHO6vL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\51JhyHtnEgL._SL1001_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51JhyHtnEgL._SL1001_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\51Lj5bxbNtL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51Lj5bxbNtL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\51Z9tfgl4aL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51Z9tfgl4aL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\51czOOat0OL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51czOOat0OL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\51l46qQB50L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51l46qQB50L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\51nukXFJLJL.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51nukXFJLJL.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\51pvLIvb6ZL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51pvLIvb6ZL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\51s6pbRlNyL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51s6pbRlNyL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\51uJ-pWfc9L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51uJ-pWfc9L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\51vxcBS1sQL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51vxcBS1sQL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\51w+JqOnmSL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51w+JqOnmSL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\51y46IslQkL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51y46IslQkL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\51yomC0EodL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51yomC0EodL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\71bJrFAys9L._SL1280_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\71bJrFAys9L._SL1280_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\71cBwWAgvIL._SL1430_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\71cBwWAgvIL._SL1430_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\816zGZv1ORL._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\816zGZv1ORL._SL1500_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\81Q1DvOnnoL._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\81Q1DvOnnoL._SL1500_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\81k1XbQ6nQL._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\81k1XbQ6nQL._SL1500_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\91FM0Hog9FL._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\91FM0Hog9FL._SL1500_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\91JUBDf1jTL._AA1500_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\91JUBDf1jTL._AA1500_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\91T2BjUkYmL._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\91T2BjUkYmL._SL1500_.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\Camera1.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\Camera1.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\HangHoa\\To.gif",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\To.gif"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\KhachHang\\Author.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\Author.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\KhachHang\\Penguins.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\Penguins.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\KhachHang\\android_300200.png",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\android_300200.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\KhachHang\\man.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\man.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\KhachHang\\woman.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\woman.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\Loai11.jpeg",
+      "PackagePath": "staticwebassets\\Hinh\\Loai11.jpeg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\Loai\\Accept.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Accept.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\Loai\\Alarm.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Alarm.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\Loai\\Anchor.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Anchor.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\Loai\\Bell.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Bell.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\Loai\\Best.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Best.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\Loai\\Billboard.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Billboard.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\Loai\\Bomb.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Bomb.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\Loai\\Brick house.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Brick house.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\Loai\\Bricks.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Bricks.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\Loai\\Buddy.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Buddy.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\Loai\\Certificate.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Certificate.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\Loai\\Dice.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Dice.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\Loai\\Dollar.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Dollar.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\Loai\\Favourites.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Favourites.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\Loai\\Funny.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Funny.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\Loai\\Heart.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Heart.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\Loai\\Microsoft.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Microsoft.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\Loai\\Unlock.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Unlock.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\Loai\\agenda_1.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\agenda_1.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\Loaiimages.jpeg",
+      "PackagePath": "staticwebassets\\Hinh\\Loaiimages.jpeg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\NhaCC\\Acer_logo-300x300.gif",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\Acer_logo-300x300.gif"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\NhaCC\\amd-logo.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\amd-logo.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\NhaCC\\apple.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\apple.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\NhaCC\\dell-logo.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\dell-logo.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\NhaCC\\dell-logo2.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\dell-logo2.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\NhaCC\\hp-logo.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\hp-logo.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\NhaCC\\intel-logo.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\intel-logo.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\NhaCC\\motorola.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\motorola.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\NhaCC\\nokia.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\nokia.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\NhaCC\\samsung-logo-2.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\samsung-logo-2.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\NhaCC\\samsung.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\samsung.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\NhaCC\\shopping_cart.png",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\shopping_cart.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\NhaCC\\sonny-ericsson.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\sonny-ericsson.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\Others\\shopping_cart.png",
+      "PackagePath": "staticwebassets\\Hinh\\Others\\shopping_cart.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\divider.gif",
+      "PackagePath": "staticwebassets\\Hinh\\divider.gif"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Accept.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Accept.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Add to basket.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Add to basket.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Add.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Add.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Address book.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Address book.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Alarm.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Alarm.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Anchor.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Anchor.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Application form.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Application form.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Bar chart.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Bar chart.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Basket.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Basket.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Bell.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Bell.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Best.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Best.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Billboard.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Billboard.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Bluetooth.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Bluetooth.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Bomb.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Bomb.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Book.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Book.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Bookmark.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Bookmark.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Box.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Box.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Boy.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Boy.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Brick house.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Brick house.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Bricks.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Bricks.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Brief case.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Brief case.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Brightness.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Brightness.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Bubble.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Bubble.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Buddy.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Buddy.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Cable.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Cable.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Calculator.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Calculator.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Calendar.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Calendar.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Call.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Call.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Camera.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Camera.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Card file.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Card file.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Cash register.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Cash register.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Cat.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Cat.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Certificate.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Certificate.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Clien list.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Clien list.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Clipboard.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Clipboard.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Clock.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Clock.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Closed door.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Closed door.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Closed folder.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Closed folder.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Coin.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Coin.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Coins.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Coins.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Color wheel.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Color wheel.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Comment.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Comment.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Comments.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Comments.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Company.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Company.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Computer.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Computer.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Conference.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Conference.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Connect.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Connect.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Construction.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Construction.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Contrast.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Contrast.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Control panel.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Control panel.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Create.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Create.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Database.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Database.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Date.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Date.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Delete.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Delete.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Desktop.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Desktop.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Diagram.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Diagram.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Dice.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Dice.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Disconnect.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Disconnect.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Discussion.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Discussion.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Document.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Document.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Documents.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Documents.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Dog.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Dog.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Dollar.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Dollar.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Down.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Down.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Download.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Download.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Edit.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Edit.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Euro.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Euro.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Exit button.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Exit button.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Exit.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Exit.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Favourites.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Favourites.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Fax.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Fax.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Flash drive.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Flash drive.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Flow block.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Flow block.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Free.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Free.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Friends.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Friends.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Full basket.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Full basket.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Funny.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Funny.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Game controller.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Game controller.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Gear.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Gear.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Genealogy.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Genealogy.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Gift.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Gift.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Girl.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Girl.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Globe.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Globe.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Handshake.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Handshake.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Happy.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Happy.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Hard disk.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Hard disk.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Heart.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Heart.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Help.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Help.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Hierarchy.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Hierarchy.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Home.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Home.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Hungup.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Hungup.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Industry.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Industry.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Info.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Info.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Key.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Key.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Label.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Label.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Left.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Left.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Lego brick.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Lego brick.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Letter.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Letter.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\List.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\List.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Lists.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Lists.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Lock.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Lock.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Log out.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Log out.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Login.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Login.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Mail.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Mail.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Microsoft.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Microsoft.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Mobile phone.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Mobile phone.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Money.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Money.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Monitor.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Monitor.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Mouse.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Mouse.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Music.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Music.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\No.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\No.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Notes.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Notes.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Numbered list.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Numbered list.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\OK.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\OK.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Online.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Online.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Open door.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Open door.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Open file.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Open file.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Open folder.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Open folder.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Open letter.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Open letter.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Open lock.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Open lock.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Payment.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Payment.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Peace.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Peace.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Pets.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Pets.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Phone.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Phone.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Piggy bank.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Piggy bank.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Piggy.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Piggy.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Pointer.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Pointer.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Pound.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Pound.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Price list.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Price list.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Print preview.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Print preview.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Print.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Print.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Printer.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Printer.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Problem.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Problem.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Properties.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Properties.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\RSS.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\RSS.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Red star.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Red star.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Refresh.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Refresh.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Remove from basket.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Remove from basket.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Report.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Report.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Right.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Right.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Rouble.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Rouble.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Sad.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Sad.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Safe.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Safe.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Save as.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Save as.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Save.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Save.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Scroll list.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Scroll list.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Search.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Search.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Shield.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Shield.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Smile.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Smile.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Software.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Software.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Statistics.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Statistics.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Stop.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Stop.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Task list.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Task list.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Telephone.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Telephone.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Text.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Text.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Tick.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Tick.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\To do list.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\To do list.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Trash.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Trash.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Unknown person.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Unknown person.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Unlock.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Unlock.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Unordered list.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Unordered list.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Up.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Up.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Upload.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Upload.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\User group.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\User group.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\User.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\User.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Users.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Users.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Wallet.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Wallet.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Warning.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Warning.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Weather.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Weather.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Wireless.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Wireless.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Wizard.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Wizard.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Yen.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Yen.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Yin-Yang.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Yin-Yang.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Zoom in.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Zoom in.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Zoom out.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Zoom out.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\Zoom.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Zoom.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\eng.gif",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\eng.gif"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\Hinh\\icons\\vit.gif",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\vit.gif"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\READ-ME.txt",
+      "PackagePath": "staticwebassets\\READ-ME.txt"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\cart.html",
+      "PackagePath": "staticwebassets\\cart.html"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\chackout.html",
+      "PackagePath": "staticwebassets\\chackout.html"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\avatar.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\baner-1.png",
+      "PackagePath": "staticwebassets\\img\\baner-1.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\banner-fruits.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-fruits.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\best-product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-1.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\best-product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-2.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\best-product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-3.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\best-product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-4.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\best-product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-5.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\best-product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-6.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\cart-page-header-img.jpg",
+      "PackagePath": "staticwebassets\\img\\cart-page-header-img.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\featur-1.jpg",
+      "PackagePath": "staticwebassets\\img\\featur-1.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\featur-2.jpg",
+      "PackagePath": "staticwebassets\\img\\featur-2.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\featur-3.jpg",
+      "PackagePath": "staticwebassets\\img\\featur-3.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\fruite-item-1.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-1.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\fruite-item-2.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-2.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\fruite-item-3.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-3.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\fruite-item-4.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-4.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\fruite-item-5.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-5.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\fruite-item-6.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-6.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\hero-img-1.png",
+      "PackagePath": "staticwebassets\\img\\hero-img-1.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\hero-img-2.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-img-2.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\hero-img.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-img.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\payment.png",
+      "PackagePath": "staticwebassets\\img\\payment.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\single-item.jpg",
+      "PackagePath": "staticwebassets\\img\\single-item.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\vegetable-item-1.jpg",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-1.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\vegetable-item-2.jpg",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-2.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\vegetable-item-3.png",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-3.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\vegetable-item-4.jpg",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-4.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\vegetable-item-5.jpg",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-5.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\img\\vegetable-item-6.jpg",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-6.jpg"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\shop-detail.html",
+      "PackagePath": "staticwebassets\\shop-detail.html"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\shop.html",
+      "PackagePath": "staticwebassets\\shop.html"
+    },
+    {
+      "Id": "E:\\Project\\NETCORE\\TakisShop\\TakisShop\\TakisShop\\wwwroot\\testimonial.html",
+      "PackagePath": "staticwebassets\\testimonial.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TakisShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TakisShop.props",
+      "PackagePath": "build\\TakisShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TakisShop.props",
+      "PackagePath": "buildMultiTargeting\\TakisShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TakisShop.props",
+      "PackagePath": "buildTransitive\\TakisShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
