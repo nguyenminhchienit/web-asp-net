@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TakisShop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09ba8b248a37e92b5d17ab7158da131794de9734")]
 [assembly: System.Reflection.AssemblyProductAttribute("TakisShop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TakisShop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
