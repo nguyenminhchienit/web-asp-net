@@ -13,9 +13,7 @@ namespace TakisShop.Controllers
             _context = context;
         }
        
-
-        const string CART_KEY = "MYCART";
-        public List<CartItemVM> Carts => HttpContext.Session.Get<List<CartItemVM>>(CART_KEY) 
+        public List<CartItemVM> Carts => HttpContext.Session.Get<List<CartItemVM>>(MySetting.CART_KEY) 
             ?? new List<CartItemVM>();
 
         public IActionResult Index()
@@ -47,7 +45,7 @@ namespace TakisShop.Controllers
             {
                 item.SoLuong += quantity;
             }
-            HttpContext.Session.Set(CART_KEY, gioHang);
+            HttpContext.Session.Set(MySetting.CART_KEY, gioHang);
             return RedirectToAction("Index");
         }
 
@@ -59,7 +57,7 @@ namespace TakisShop.Controllers
             {
                 gioHang.Remove(item);
             }
-            HttpContext.Session.Set(CART_KEY, gioHang);
+            HttpContext.Session.Set(MySetting.CART_KEY, gioHang);
             return RedirectToAction("Index");
         }
     }
